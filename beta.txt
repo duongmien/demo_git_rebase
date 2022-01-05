@@ -1,1 +1,2 @@
 Them commit B1
+Them commit B2
